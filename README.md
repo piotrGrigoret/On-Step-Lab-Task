@@ -1,24 +1,10 @@
-# initial
 
-## Project setup
-```
-npm install
-```
+Pentru a lansa proiectul în localhost este nevoie de a implementa două comenzi :
 
-### Compiles and hot-reloads for development
-```
+npm i  
 npm run serve
-```
 
-### Compiles and minifies for production
-```
+Pentru a lansa proiectul în production este nevoie de a implementa două comenzi :
+
+npm i 
 npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
